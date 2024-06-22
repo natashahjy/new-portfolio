@@ -1,3 +1,3 @@
 # new-portfolio
-# redo of existing portfolio page
-# overhaul 
+redo of existing portfolio page
+overhaul 
